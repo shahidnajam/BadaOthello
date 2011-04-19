@@ -1,0 +1,1 @@
+-L"D:/Bada/1.0.0/Model/Wave_LP4/Simulator" -L"D:/Bada/1.0.0/Lib" -L"D:/Bada/1.0.0/IDE/workspace/MagicOthello/lib" -shared -o"MagicOthello.exe"
